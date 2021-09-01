@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imShashanKashyap
 - 👀 I’m interested in Discussions, Hackathons and Ideathons
-- 🌱 I’m currently learning Data Sdience and Machine Learning.
+- 🌱 I’m currently learning Data Science and Machine Learning.
 - 💞️ I’m looking to collaborate on Data Science and Machine Learning Projects.
 - 📫 How to reach me +91-9555542764 (WhatsApp)
 
