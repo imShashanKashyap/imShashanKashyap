@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @imShashanKashyap
+- 👋 Hi, I’m @imShashanKashyap, working as a Data Scientist
 - 👀 I’m interested in Discussions, Hackathons and Ideathons
 - 🌱 I’m currently learning Data Science and Machine Learning.
 - 💞️ I’m looking to collaborate on Data Science and Machine Learning Projects.
