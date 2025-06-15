@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="Flexing GIF"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" alt="Flexing GIF"/>
 </p>
 
 <p align="center">
@@ -71,7 +71,7 @@ We play with the best to build the best:
 | LinkedIn | [Flexing Data](https://linkedin.com/company/flexingdata) |
 | Instagram | [@flexingdata](https://instagram.com/flexingdata) |
 | Twitter/X | [@flexingdata](https://twitter.com/flexingdata) |
-| Email | [hello@flexingdata.com](mailto:shashank@flexingdata.com) |
+| Email | [shashank@flexingdata.com](mailto:shashank@flexingdata.com) |
 
 ---
 
