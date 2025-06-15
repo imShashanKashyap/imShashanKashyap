@@ -70,10 +70,10 @@ We play with the best to build the best:
 
 ## 🌟 Featured Projects
 
-- 🤖 **Escalation Predictor** – ML model predicting Tier-2 customer escalations using NLP  
+- 🤖 **Escalation Predictor** – ML model predicting customer escalations using NLP  
 - 🎬 **Mood to Movie** – Detects your mood and recommends films using AI + Streamlit  
 - 📊 **Analyst Toolkit** – All-in-one starter repo with SQL queries, dashboards, and EDA notebooks  
-- 💬 **FlexGPT** – Gemini-powered chatbot trained on company documentation with Google Sheets logging
+- 💬 **Flexy** – Gemini-powered chatbot trained on company documentation with Google Sheets logging
 
 ---
 
